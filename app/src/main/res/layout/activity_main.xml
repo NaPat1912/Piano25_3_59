@@ -37,7 +37,7 @@
                 android:layout_height="match_parent"
                 android:id="@+id/button"
                 android:gravity="center"
-                android:background="#cbffffff"
+                android:background="#cbaffcfc"
                 android:text="C"
                 android:textSize="40dp" />
 
@@ -46,7 +46,7 @@
                 android:layout_height="match_parent"
                 android:id="@+id/button2"
                 android:gravity="center"
-                android:background="#cbffffff"
+                android:background="#cb7ceef6"
                 android:text="D"
                 android:textSize="40dp" />
 
@@ -55,7 +55,7 @@
                 android:layout_height="match_parent"
                 android:id="@+id/button3"
                 android:gravity="center"
-                android:background="#cbffffff"
+                android:background="#cbaffcfc"
                 android:text="E"
                 android:textSize="40dp" />
 
@@ -64,7 +64,7 @@
                 android:layout_height="match_parent"
                 android:id="@+id/button4"
                 android:gravity="center"
-                android:background="#cbffffff"
+                android:background="#cb7ceef6"
                 android:text="F"
                 android:textSize="40dp"
                 android:shadowColor="#020202" />
@@ -74,7 +74,7 @@
                 android:layout_height="match_parent"
                 android:id="@+id/button5"
                 android:gravity="center"
-                android:background="#cbffffff"
+                android:background="#cbaffcfc"
                 android:text="G"
                 android:textSize="40dp"
                 android:shadowColor="#010101" />
@@ -84,7 +84,7 @@
                 android:layout_height="match_parent"
                 android:id="@+id/button6"
                 android:gravity="center"
-                android:background="#cbffffff"
+                android:background="#cb7ceef6"
                 android:textSize="40dp"
                 android:text="A"
                 android:shadowColor="#040404" />
@@ -94,7 +94,7 @@
                 android:layout_height="match_parent"
                 android:id="@+id/button7"
                 android:gravity="center"
-                android:background="#cbffffff"
+                android:background="#cbaffcfc"
                 android:text="B"
                 android:textSize="40dp"
                 android:shadowColor="#040404" />
@@ -104,7 +104,7 @@
                 android:layout_height="match_parent"
                 android:id="@+id/button8"
                 android:gravity="center"
-                android:background="#cbffffff"
+                android:background="#cb7ceef6"
                 android:textSize="40dp"
                 android:text="C&apos;"
                 android:clickable="false"
